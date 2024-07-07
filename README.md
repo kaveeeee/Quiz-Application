@@ -1,6 +1,5 @@
 # Our Quiz - Web Application
 
-[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Quiz%20App%20by%20Junaid%20at)](https://progressiveapp.store/pwa/Quiz-App-by-Junaid)
 
 ### On PC
 
