@@ -10,7 +10,7 @@
 
 <img src="./projectImages/lighthouse.png"/>
 
-### link : https://quiz-application-nine-nu.vercel.app/
+### link : https://quiz-application-woyo.vercel.app/
 
 
 ### _A Quiz Progressive Web Application built using ReactJs, Typescript. You can install it on your devices (Mobile, Desktop) and can use it offline_
