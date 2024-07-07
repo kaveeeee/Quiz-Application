@@ -1,9 +1,6 @@
 # Our Quiz - Web Application
 
 
-### On PC
-
-<img src="./projectImages/pc.png"/>
 
 ### On Mobile
 
@@ -13,9 +10,8 @@
 
 <img src="./projectImages/lighthouse.png"/>
 
-### link : http://our-quiz.web.app/
+### link : https://quiz-application-nine-nu.vercel.app/
 
-### Youtube Video (Demo) : https://youtu.be/RnTska40jiU
 
 ### _A Quiz Progressive Web Application built using ReactJs, Typescript. You can install it on your devices (Mobile, Desktop) and can use it offline_
 
@@ -38,10 +34,6 @@
 - SEO Optimized
 - Mobile Responsive
 
-## Run Locally
-
-- Run this command `git clone https://github.com/developer-junaid/Quiz-Application.git`
-- You are now in the dev environment and you can play around
 
 ## Tech Stack
 
